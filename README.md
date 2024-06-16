@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 
+### Languages
+
+![C#](https://img.shields.io/badge/-c%23-darkgreen?&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/-.Net-5C2D91?&logo=.Net&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python&logoColor=white)
+
 
 
 ### Where you can find me
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bahrami/)
 <!--
 **Mohmmad-Bahrami/Mohmmad-Bahrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
